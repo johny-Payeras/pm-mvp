@@ -1,0 +1,4 @@
+interface:
+  display_name: "PM MVP"
+  short_description: "Define, construye y audita MVPs con evidencia"
+  default_prompt: "Usa $pm-mvp para convertir mi idea en un experimento mínimo y ayudarme a ejecutarlo."
